@@ -3,7 +3,7 @@ CS374 Database Management Final Project
 -Finn McClone, Andi Brandsness, James Holtz, and Spencer Gariano
 
 Description: 
-This project is a  for Whitworth students. First wel gathered data from students using a google sheet questionnaire. 
+This project is a matching service for Whitworth students. First we gathered data from students using a google sheet questionnaire. 
 Each person was asked 10 matchmaking questions as well as general information questions such as email and name. 
 That data was put into a MySQL database as shown in the relations below. 
 Our keys are ID, QuestionID, ResponseID, and PersonID, and each are foreign keys to each other table. 
